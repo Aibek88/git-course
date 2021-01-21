@@ -1,0 +1,1 @@
+desctop.body.inner html = <h1>hello from js</h1>
