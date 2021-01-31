@@ -1,2 +1,2 @@
-# git-course
-github course
+# github
+github lesson
